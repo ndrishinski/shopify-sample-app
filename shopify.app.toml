@@ -3,7 +3,7 @@
 client_id = "eea13a70ef9550c983dcd873aca504d4"
 name = "my-new-app"
 handle = "my-new-app-1050"
-application_url = "https://buddy-commons-tb-expansys.trycloudflare.com"
+application_url = "https://agency-blake-portsmouth-buck.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://buddy-commons-tb-expansys.trycloudflare.com/auth/callback",
-  "https://buddy-commons-tb-expansys.trycloudflare.com/auth/shopify/callback",
-  "https://buddy-commons-tb-expansys.trycloudflare.com/api/auth/callback"
+  "https://agency-blake-portsmouth-buck.trycloudflare.com/auth/callback",
+  "https://agency-blake-portsmouth-buck.trycloudflare.com/auth/shopify/callback",
+  "https://agency-blake-portsmouth-buck.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
